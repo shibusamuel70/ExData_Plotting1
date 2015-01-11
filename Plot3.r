@@ -1,3 +1,5 @@
+#Exploratory Data Analysis - Course Project 1
+
 #Download and unzip the file from https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip into your working directory.
  
 #Read the contents of the file household_power_consumption.txt from the working directory
